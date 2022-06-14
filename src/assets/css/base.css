@@ -1,0 +1,30 @@
+*{ 
+    margin: 0;
+}
+.align-items-center{ 
+ align-content: center;
+}
+.justify-center{ 
+ justify-content: center;
+}
+.primary-bg{ 
+ background-color: rgb(86, 231, 231);
+}
+.primary-btn{ 
+ background-color: rgb(199, 228, 228);
+ padding: 1rem ;
+ color: #333333;
+}
+.error-bg{ 
+ color:rgb(238, 68, 26);
+}
+.flexed{
+ display: flex;
+ justify-content: center;
+ gap: 1em;
+}
+.flex-column{ 
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+}
